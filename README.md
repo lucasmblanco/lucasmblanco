@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, Self-taught developer here! currently learning ReactJS 🔭
+
+# Language & Tools :hammer:: 
 
 <!--
 **lucasmblanco/lucasmblanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
