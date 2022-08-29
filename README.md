@@ -1,6 +1,7 @@
 ## Hi, Self-taught developer here! currently learning ReactJS 🔭
 
-# Language & Tools :hammer:: 
+# 🛠️Language & Tools: 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--
 **lucasmblanco/lucasmblanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
