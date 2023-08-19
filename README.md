@@ -7,7 +7,7 @@ A self-taught developer trying to improve everyday, currenlty learning and impro
 
 - I'm currently working on my portfolio 💼
 - Discovering Java ♨
-- ...and improving my knowleage in ReactJS ⭐
+- ...and improving my knowledge in ReactJS ⭐
 
 <br/>
 
