@@ -1,12 +1,13 @@
 ## Hey there, I'm Lucas! 👋 
-A self-taught developer trying to improve everyday 💪
-
+From <strong>Cordoba, Argentina<strong>
+A self-taught developer trying to improve everyday, currenlty learning and improving on NextJS and Supabase. 
 <br/>
 
 ## What i'm up to 🚀
 
-- I'm currently learning Java ♨
-- And improving my knowleage in ReactJS ⭐
+- I'm currently working on my portfolio 💼
+- Discovering Java ♨
+- ...and improving my knowleage in ReactJS ⭐
 
 <br/>
 
