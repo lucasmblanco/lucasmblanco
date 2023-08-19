@@ -14,7 +14,7 @@ A self-taught developer trying to improve everyday 💪
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nextjs,figma&theme=dark)](https://skillicons.dev)
 
- ##  Contact me here 👉 <lucasmatiasblanco@outlook.com>
+ #  Contact me here 👉 <lucasmatiasblanco@outlook.com>
  
 
 
