@@ -8,12 +8,12 @@ A self-taught developer trying to improve everyday, currenlty learning and impro
 - I'm currently working on my portfolio 💼
 - Discovering Java ♨
 - ...and improving my knowledge in ReactJS ⭐
-
 <br/>
 
-## Language & Tools 🛠️
+## Languages & Tools 🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nextjs,figma&theme=dark)](https://skillicons.dev)
+<br/>
 
 Contact me here 👉 <lucasmatiasblanco@outlook.com>
  
