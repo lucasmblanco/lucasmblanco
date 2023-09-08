@@ -1,5 +1,5 @@
 ## Hey there, I'm Lucas! 👋 
-From <strong>Córdoba, Argentina<strong>\
+From <strong>Córdoba, Argentina<strong>🇦🇷\ 
 A self-taught developer trying to improve everyday, currently learning and improving on NextJS and Supabase. 
 <br/>
 
