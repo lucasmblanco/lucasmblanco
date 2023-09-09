@@ -12,7 +12,7 @@ A self-taught developer trying to improve everyday, currently learning and impro
 
 ## Languages & Tools 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nextjs,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,express,nextjs,figma&theme=dark)](https://skillicons.dev)
 <br/>
 
 Contact me here 👉 <lucasmatiasblanco@outlook.com>
