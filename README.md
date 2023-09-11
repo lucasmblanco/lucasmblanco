@@ -11,6 +11,7 @@ A self-taught developer trying to improve everyday, currently learning and impro
 <br/>
 
 ## Languages & Tools 🛠️
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,express,nextjs,figma&theme=dark)](https://skillicons.dev)
 
 <br/>
