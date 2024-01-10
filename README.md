@@ -1,7 +1,6 @@
 ## Hey there, I'm Lucas! 👋 
 From <strong>Córdoba, Argentina<strong> 🇦🇷\
 <br/>
-
 ## What i'm up to 🚀
 
 - I'm currently working on my portfolio 💼
