@@ -4,7 +4,7 @@ From <strong>Córdoba, Argentina<strong> 🇦🇷\
 ## What i'm up to 🚀
 
 - I'm currently working on my portfolio 💼
-- Discovering Java ♨
+- Discovering Rust ®️
 - ...and improving my knowledge in ReactJS ⭐
 <br/>
 
