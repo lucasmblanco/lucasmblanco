@@ -1,4 +1,4 @@
-## Hey there, I'm Lucas! 👋 
+## 👋 Hey there, I'm Lucas!  
 From <strong>Córdoba, Argentina<strong> 🇦🇷\
 <br/>
 ## What i'm up to 🚀
